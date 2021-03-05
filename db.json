@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "text": "fa de mancare",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "text": "fa curat",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
